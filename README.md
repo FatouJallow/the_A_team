@@ -8,3 +8,4 @@ Team Project
 - Abir Hossain
 - Josh Kraft
 - DeeDee Medina
+- Fatou Jallow
